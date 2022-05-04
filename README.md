@@ -5,7 +5,7 @@ _You don't make the music. The music makes you._
 
 ****
 
-My [music](https://lmms.io/forum/viewtopic.php?t=35299)
+My [music](https://lmms.io/forum/viewtopic.php?t=35299).
 
 I also write stories and barely informative pieces of nonsense.
 And draw, not that _that_ matters.
