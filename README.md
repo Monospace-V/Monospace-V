@@ -15,7 +15,7 @@ Check other files of this repository for any literature I write. I might upload 
 
 - Reach me:
   - Create an issue on this repository.
-  - Contact me privately via the [LMMS forums](https://lmms.io/forum/memberlist.php?mode=viewprofile&u=9181) (avoid using this option)
+  - Contact me privately via the [LMMS forums](https://lmms.io/forum/memberlist.php?mode=viewprofile&u=9181) if it's related to music on LMMS (avoid using this option)
 
 - I'm looking for help with: my Java calculator. See the repository for the calculator for more information on what.
 
