@@ -11,6 +11,8 @@ I also write stories and barely informative pieces of nonsense.
 And draw, not that _that_ matters.
 Check other files of this repository for any literature I write. I might upload some.
 
+I also use [Alice](https://alice.org) sometimes, see [this](https://drive.google.com/drive/folders/1h6H_IfB_YCdypGuahRy2I8pCPukXihEc) folder. I stopped using it after I tried to get camera movements precise and realise Alice randomized some amount of movement in on every run. Now the project I attempted to make is lying around somewhere.
+
 ****
 
 - Reach me:
