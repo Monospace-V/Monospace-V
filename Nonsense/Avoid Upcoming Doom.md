@@ -13,7 +13,7 @@ First tip:
 Always carry an umbrella with you. Wherever you go.
 
 Should a giraffe's head suddenly fall on you as you navigate your path to the nearby grocery store between its feet, you will be thankful you listened to me.
-If the umbrella is red or black or really cool dark blue in colour, you get brownie points on the Monisha point-keeping bulletin board. Simply because those colours are nice, of course. And maybe you'll get a brownie...
+If the umbrella is red or black or really cool dark blue in colour, you get brownie points on the Monospace point-keeping bulletin board. Simply because those colours are nice, of course. And maybe you'll get a brownie...
 
 
 Second tip:
