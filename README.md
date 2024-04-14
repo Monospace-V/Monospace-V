@@ -5,7 +5,7 @@ _You don't make the music. The music makes you._
 
 ****
 
-My [music](https://lmms.io/forum/viewtopic.php?t=35299).
+My [music](https://lmms.io/forum/viewtopic.php?t=35299). mind they're old and obsolete links
 
 I also write stories and barely informative pieces of nonsense. And draw.
 Might upload some files to this repo.
@@ -14,15 +14,73 @@ I also use [Alice](https://alice.org) sometimes, see [this](https://drive.google
 
 ****
 
-- Reach me:
+- Reach me (albeit slowly):
   - Create an issue on this repository.
-  - Contact me privately via the [LMMS forums](https://lmms.io/forum/memberlist.php?mode=viewprofile&u=9181) if it's related to music on LMMS (avoid using this option)
+  - Contact me privately via the [LMMS forums](https://lmms.io/forum/memberlist.php?mode=viewprofile&u=9181) if it's related to music on LMMS (avoid using this option. I'm rarely active.)
 
-- I'm looking for help with: my Java calculator. See the repository for the calculator for more information on what.
+- Find me publicly on:
+  - The LMMS forums
+  - The LMMS Discord
+  - KVR Audio, for some reason
 
-- Fun fact: R' F R' B B R F' R' B B R R U' exchanges the upper two corners facing the cuber. Also rotates upper edges clockwise from top by 90 degrees, collateral damage. The fun part is, if arranged such that the upper edges are one clockwise rotation away from perfection and the upper corners facing the cuber need to be exchanged, this makes for a very dramatic last move, especially if the cube is flipped after completion and hits the palm with a satisfying smack.
+- The most effective way to reach me as of writing:
+  - Ping me. Ideally on this repository.
 
 
+- I'm working on several things. This repository is old and I don't update it much.
+
+- What I'm working on:
+  - LMMS' code occasionally. Currently thinking about updating to format
+  - LMMS or music
+  - Working on creating a website
+  - Articles on audio etc to put up on said website (I hope to explain well) 
+  - Art
+  - Attempting to learn the keyboard, guitar, cajon, and harmonica.
+
+- What I've worked on or worked with: 
+  - LMMS.
+  - Audacity.
+  - REAPER. barely
+  - Hydrogen
+  - Krita, Sketchbook, and Wick Editor
+  - Embroidery and stitching?
+  - Alice
+  - Colour pencils? oil pastels? art? eh
+  - Writing?
+  - basic Python and SQL, Java, QBasic
+
+
+- My resources: 
+  - I have some slightly old books with old Christmas carols/worship songs and their associated sheet music
+  - I have a quick and dirty Johnny decimal index creator/updater and a backup and mapping files utility bat file for Windows systems. the backup bat is robocopy-based.
+
+
+- Learning as much as I can about audio through mit ocw courses and the like. If you know a good course please let me know!
+
+- If you need a track made contact me. I probably need experience. here is what I will work with: 
+  - Tool of choice: LMMS. can use Cakewalk if required but I'm not proficient.
+  - 3rd party: I have several VSTs and soundfonts. I'm not particularly fond of using too many VSTs since they take time to load. also can use gig, pat, sfz, sfark archives if required.
+  - Approach of choice: If you have an idea in mind already for a tune and styling this is even better.
+  - Short tracks that are auditorily interesting
+  - Longer tracks only with heavy guidance
+  - background scores where you plan to record other instruments over (also with guidance)
+  - samples if any. the shorter the better. I don't have a smart sampler that can detect and preserve the formants of a sample, or one that automatically loops to requirement.
+  - Unusual time signatures, with guidance.
+
+
+- What I will not work with: 
+  - Most online music studios, especially those with dynamic content. includes Soundtrap and bandlab mix editor. I can but would rather not.
+  - Most paid software. I am broke. I prefer limiting my piracy to minor conveniences I'll use once or thrice, and legally cannot produce what is made with free versions.
+  - Microsoft Excel
+  - I'm not versed music theory, sheet music, or playing a musical instrument. I'm learning, and if needed can reference, but I do not possess the skills just yet.
+  - VST3. LMMS doesn't support it. I do not believe in the yeet of vst2.
+  - High expectations of audio sampling rate or bitrate checking. just because I have my knowledge doesn't mean I have fancy studio monitor speakers. I do, however, have tinnitus and a mild propensity for high-end hearing loss. I'll export it at whatever quality I can give you but that's all.
+
+
+- What I can work with: 
+  - cajon if needed (I do not have a studio setup or high-end mic. noise is inevitable.)
+  - Vocal recording. can also do basic editing (noise removal, volume balancing) but avoid. my condensor microphone isn't high-end.
+  - I have a torrent client, git, ytdlp, Audacity, and an evaluation version of REAPER set up among other resources in the event I should require them.
 
 
 <!--
