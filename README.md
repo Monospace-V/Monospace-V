@@ -64,7 +64,7 @@ I also use [Alice](https://alice.org) sometimes, see [this](https://drive.google
   - Short tracks that are auditorily interesting
   - Longer tracks only with heavy guidance
   - background scores where you plan to record other instruments over (also with guidance)
-  - samples if any. the shorter the better. I don't have a smart sampler that can detect and preserve the formants of a sample, or one that automatically loops to requirement.
+  - samples if any. I don't have a smart sampler that can detect and preserve the formants of a sample, or one that automatically loops to requirement.
   - Unusual time signatures, with guidance.
 
 
