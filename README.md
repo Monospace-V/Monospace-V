@@ -1,7 +1,7 @@
 ### Monospace-V
 #### Hey there.
 
-_You don't make the music. The music makes you._
+_You don't just learn music. The music teaches you._
 
 ****
 
@@ -30,9 +30,10 @@ I also use [Alice](https://alice.org) sometimes, see [this](https://drive.google
 - I'm working on several things. This repository is old and I don't update it much.
 
 - What I'm working on:
-  - LMMS' code occasionally. Currently thinking about updating to format
+  - Understanding the GIG file format. I need to understand the sf2 specification first.
+  - LMMS' code occasionally. Was thinking about updating to format
   - LMMS or music
-  - Working on creating a website
+  - Working on my website (it is up)
   - Articles on audio etc to put up on said website (I hope to explain well) 
   - Art
   - Attempting to learn the keyboard, guitar, cajon, and harmonica.
@@ -41,7 +42,7 @@ I also use [Alice](https://alice.org) sometimes, see [this](https://drive.google
   - LMMS.
   - Audacity.
   - REAPER. barely
-  - Hydrogen
+  - Hydrogen (drum machine)
   - Krita, Sketchbook, and Wick Editor
   - Embroidery and stitching?
   - Alice
@@ -70,15 +71,15 @@ I also use [Alice](https://alice.org) sometimes, see [this](https://drive.google
 
 - What I will not work with: 
   - Most online music studios, especially those with dynamic content. includes Soundtrap and bandlab mix editor. I can but would rather not.
-  - Most paid software. I am broke. I prefer limiting my piracy to minor conveniences I'll use once or thrice, and legally cannot produce what is made with free versions.
-  - Microsoft Excel
+  - Most paid software. I am broke. I do not enjoy pirating audio software for general use.
+  - Microsoft Excel. I don't like it.
   - I'm not versed music theory, sheet music, or playing a musical instrument. I'm learning, and if needed can reference, but I do not possess the skills just yet.
-  - VST3. LMMS doesn't support it. I do not believe in the yeet of vst2.
-  - High expectations of audio sampling rate or bitrate checking. just because I have my knowledge doesn't mean I have fancy studio monitor speakers. I do, however, have tinnitus and a mild propensity for high-end hearing loss. I'll export it at whatever quality I can give you but that's all.
+  - VST3. LMMS doesn't support it. I do not believe in the obsolesence of vst2.
+  - High expectations of audio sampling rate or bitrate checking. just because I have my knowledge doesn't mean I have fancy studio monitor speakers. I do, however, have hearing issues. I'll export it at whatever quality I can give you but that's all.
 
 
 - What I can work with: 
-  - cajon if needed (I do not have a studio setup or high-end mic. noise is inevitable.)
+  - cajon if needed (I do not have a studio setup or high-end mic. noise is inevitable. I will do what I can to reduce it)
   - Vocal recording. can also do basic editing (noise removal, volume balancing) but avoid. my condensor microphone isn't high-end.
   - I have a torrent client, git, ytdlp, Audacity, and an evaluation version of REAPER set up among other resources in the event I should require them.
 
