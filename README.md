@@ -1,7 +1,7 @@
 ### Monospace-V
 #### Hey there.
 
-_You don't just learn music. The music teaches you._
+_Italicized text_
 
 ****
 
@@ -31,12 +31,13 @@ I also use [Alice](https://alice.org) sometimes, see [this](https://drive.google
 
 - What I'm working on:
   - Understanding the GIG file format. I need to understand the sf2 specification first.
-  - LMMS' code occasionally. Was thinking about updating to format
   - LMMS or music
   - Working on my website (it is up)
   - Articles on audio etc to put up on said website (I hope to explain well) 
   - Art
   - Attempting to learn the keyboard, guitar, cajon, and harmonica.
+
+<!--
 
 - What I've worked on or worked with: 
   - LMMS.
@@ -56,10 +57,11 @@ I also use [Alice](https://alice.org) sometimes, see [this](https://drive.google
   - I have a quick and dirty Johnny decimal index creator/updater and a backup and mapping files utility bat file for Windows systems. the backup bat is robocopy-based.
 
 
-- Learning as much as I can about audio through mit ocw courses and the like. If you know a good course please let me know!
+< - Learning as much as I can about audio through mit ocw courses and the like. If you know a good course please let me know! 
+
 
 - If you need a track made contact me. I probably need experience. here is what I will work with: 
-  - Tool of choice: LMMS. can use Cakewalk if required but I'm not proficient.
+  - Tool of choice: LMMS. can use Cakewalk if required but I'm not proficient. OnlineSequencer.
   - 3rd party: I have several VSTs and soundfonts. I'm not particularly fond of using too many VSTs since they take time to load. also can use gig, pat, sfz, sfark archives if required.
   - Approach of choice: If you have an idea in mind already for a tune and styling this is even better.
   - Short tracks that are auditorily interesting
@@ -84,7 +86,7 @@ I also use [Alice](https://alice.org) sometimes, see [this](https://drive.google
   - I have a torrent client, git, ytdlp, Audacity, and an evaluation version of REAPER set up among other resources in the event I should require them.
 
 
-<!--
+
 **Monospace-V/Monospace-V** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
