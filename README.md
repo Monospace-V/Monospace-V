@@ -14,22 +14,25 @@ I also use [Alice](https://alice.org) sometimes, see [this](https://drive.google
 
 ****
 
-- Reach me (albeit slowly):
-  - Create an issue on this repository.
+- Reach me:
+  - Create an issue on this repository (I may look sometimes).
+  - I am on the LMMS Discord server.
+
+
+- I'm working on several things. This repository is old and I don't update it much.
+
+- What I'm working on:
+  - College
+  - LMMS Docs
+  - My website
+
+<!--
   - Contact me privately via the [LMMS forums](https://lmms.io/forum/memberlist.php?mode=viewprofile&u=9181) if it's related to music on LMMS (avoid using this option. I'm rarely active.)
 
 - Find me publicly on:
   - The LMMS forums
   - The LMMS Discord
   - KVR Audio, for some reason
-
-- The most effective way to reach me as of writing:
-  - Ping me. Ideally on this repository.
-
-
-- I'm working on several things. This repository is old and I don't update it much.
-
-- What I'm working on:
   - Understanding the GIG file format. I need to understand the sf2 specification first.
   - LMMS or music
   - Working on my website (it is up)
@@ -37,7 +40,6 @@ I also use [Alice](https://alice.org) sometimes, see [this](https://drive.google
   - Art
   - Attempting to learn the keyboard, guitar, cajon, and harmonica.
 
-<!--
 
 - What I've worked on or worked with: 
   - LMMS.
